@@ -2,7 +2,8 @@
 抓取"FedEx package and air freight fuel surcharge rates"
 
 自動化抓取 **FedEx Ground** 每週燃油附加費率 (Fuel Surcharge) 所設計。
-由於 FedEx 官網具有防爬蟲機制，本程式使用 **Selenium** 模擬真實瀏覽器行為進行抓取，並自動將抓取到的最新費率更新至本地端的 Excel 運算表中。
+
+FedEx 官網具有防爬蟲機制，程式使用 **Selenium** 模擬真實瀏覽器行為進行抓取，並自動將抓取到的最新費率更新至本地端的 Excel 運算表中。
 
 ##  主要功能
 1. **自動抓取費率**：
